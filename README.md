@@ -13,7 +13,7 @@
 <img src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" width="25" height="25">
 <img src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/bootstrap/bootstrap.png" width="25" height="25">
 <img src ="https://git-scm.com/images/logo@2x.png" width="25" height="25">
-<img src ="https://git-scm.com/images/logo@2x.png" width="25" height="25">
+<img src ="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="25" height="25">
 <img src ="https://git-scm.com/images/logo@2x.png" width="25" height="25">
 <img src ="https://git-scm.com/images/logo@2x.png" width="25" height="25">
 
