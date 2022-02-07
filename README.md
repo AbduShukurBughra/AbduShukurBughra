@@ -10,7 +10,7 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Github.svg" algin = "left"/>][Github]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Linkeden.svg"  algin = "left"/>][Linkeden]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Stackoverflow.svg" algin = "left"/>][Stackoverflow]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Hackerrank.svg" algin = "left"/>][Hackerrank]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Hackerrank#00EA64.svg" algin = "left"/>][Hackerrank]
 
 [Github] : https://github.com/AbduShukurBughra
 [Linkeden] : https://www.linkedin.com/in/abdushukur-bughra/
