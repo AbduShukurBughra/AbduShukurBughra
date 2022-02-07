@@ -7,10 +7,10 @@
 ### Skills
 
 ### Reach out to me
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Github.svg" algin = "left"/>][Github]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Linkeden.svg"  algin = "left"/>][Linkeden]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Stackoverflow.svg" algin = "left"/>][Stackoverflow]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Hackerrank#00EA64.svg" algin = "left"/>][Hackerrank]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/github.svg" algin = "left"/>][Github]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/linkedin.svg"  algin = "left"/>][Linkeden]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/stackoverflow.svg" algin = "left"/>][Stackoverflow]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/hackerrank.svg" algin = "left"/>][Hackerrank]
 
 [Github] : https://github.com/AbduShukurBughra
 
