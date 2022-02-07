@@ -13,8 +13,10 @@
 [<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/stackoverflow.svg" algin = "left"/>][Stackoverflow]
 [<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/hackerrank.svg" algin = "left"/>][Hackerrank]
 
-[Github] : https://github.com/AbduShukurBughra
+<br/>
+<br/>
 
+[Github] : https://github.com/AbduShukurBughra
 [Linkeden] : https://www.linkedin.com/in/abdushukur-bughra/
 [Stackoverflow] : https://stackoverflow.com/users/16337668/abdushukur-bughra?tab=profile
 [Hackerrank] : https://www.hackerrank.com/AbduShukurBughra?hr_r=1
