@@ -1,4 +1,4 @@
-<img src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" height="250">
+<img src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="200">
 
 ### Hi, Welcome To My Github Profile . I'm AbduShukur 👋 👋 👋  
 
@@ -24,16 +24,16 @@
 <img src ="https://git-scm.com/images/logo@2x.png" width="25" height="25">
 
 ### Reach out to me
-[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/github.svg" algin = "left"/>] : [Github]
-[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/linkedin.svg"  algin = "left"/>] : [Linkeden]
-[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/stackoverflow.svg" algin = "left"/>] : [Stackoverflow]
-[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/hackerrank.svg" algin = "left"/>] : [Hackerrank]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/github.svg" algin = "left"/>][Github]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/linkedin.svg"  algin = "left"/>][Linkeden]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/stackoverflow.svg" algin = "left"/>][Stackoverflow]
+[<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/hackerrank.svg" algin = "left"/>][Hackerrank]
 
 <br/>
 <br/>
 
-[Github] : https://github.com/AbduShukurBughrard
-[Linkeden] : https://www.linkedin.com/in/abdushukur-bughra/
-[Stackoverflow] : https://stackoverflow.com/users/16337668/abdushukur-bughra?tab=profile
-[Hackerrank] : https://www.hackerrank.com/AbduShukurBughra?hr_r=1
+[Github]: https://github.com/AbduShukurBughrard
+[Linkeden]: https://www.linkedin.com/in/abdushukur-bughra/
+[Stackoverflow]: https://stackoverflow.com/users/16337668/abdushukur-bughra?tab=profile
+[Hackerrank]: https://www.hackerrank.com/AbduShukurBughra?hr_r=1
 
