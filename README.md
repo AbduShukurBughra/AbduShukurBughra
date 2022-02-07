@@ -1,8 +1,7 @@
-#### Software Development Engineer In Test
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋 👋
 
-## Software Development Engineer In Test(SDET)| & | Bootcamp Acceleration Program- 2022 at Patika.dev|
+### Software Development Engineer In Test(SDET)| & | Bootcamp Acceleration Program- 2022 at Patika.dev|
 <!--
 **AbduShukurBughra/ABduShukurBughra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
