@@ -1,7 +1,7 @@
 <img src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" height="250">
 
-### Hi, Welcome To My Github Profile ...👋 👋 👋 
-### My name is AbduShukur 👋 👋 👋 
+### Hi, Welcome To My Github Profile . I'm AbduShukur 👋 👋 👋  
+
 
 ### Software Development Engineer In Test(SDET)
 
