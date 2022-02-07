@@ -1,3 +1,4 @@
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" align="right" width="480" height="360"> 
 
 ### Hi, Welcome To My Github Profile, My name is AbduShukur 👋 👋 👋 
 
