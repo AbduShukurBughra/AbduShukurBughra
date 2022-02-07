@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-[Github] : https://github.com/AbduShukurBughra
+[Github] : https://github.com/AbduShukurBughrard
 [Linkeden] : https://www.linkedin.com/in/abdushukur-bughra/
 [Stackoverflow] : https://stackoverflow.com/users/16337668/abdushukur-bughra?tab=profile
 [Hackerrank] : https://www.hackerrank.com/AbduShukurBughra?hr_r=1
