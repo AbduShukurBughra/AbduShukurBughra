@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-[Github]: https://github.com/AbduShukurBughrard
+[Github]: https://github.com/AbduShukurBughra
 [Linkeden]: https://www.linkedin.com/in/abdushukur-bughra/
 [Stackoverflow]: https://stackoverflow.com/users/16337668/abdushukur-bughra?tab=profile
 [Hackerrank]: https://www.hackerrank.com/AbduShukurBughra?hr_r=1
