@@ -12,7 +12,7 @@
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="css3" width="40" height="40"/> </a></p>
 
 
--  I’m currently working on |Bootcamp Acceleration Program - 2022 at Patika.dev|
+-  I’m currently working on Selenium Master LLC
 
 ### Reach out to me
 [<img height="32" width="32" src="https://github.com/AbduShukurBughra/AbduShukurBughra/blob/master/img/github.svg" algin = "left"/>][Github]
